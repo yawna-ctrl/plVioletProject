@@ -14,4 +14,8 @@ molar mass of an element etc.
 
 Common Physics, Chemistry, Statistics, Calculus formulas are also to be included in the selection box.
 
+Leader: John Dale Rick A. Nepomuceno
 
+Rapporteur: Jeriah Robert N. Galang
+
+Member: Allana A. Navajas
