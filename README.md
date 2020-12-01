@@ -22,4 +22,4 @@ Member: Allana A. Navajas
 
 ### IPO ###
 
-![alt text](https://github.com/yawna000/plVioletProject/blob/main/IPO%20Chart.png)
+![alt text](https://github.com/yawna000/plVioletProject/blob/main/IPO.png)
