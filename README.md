@@ -21,4 +21,7 @@ Rapporteur: Jeriah Robert N. Galang
 Member: Allana A. Navajas
 
 ### IPO ###
+
+![alt text](https://github.com/yawna000/plVioletProject/blob/main/IPO.png)
+
 ![alt text](https://github.com/yawna000/plVioletProject/blob/main/IPO%20Chart.png)
