@@ -22,25 +22,24 @@ Member: Allana A. Navajas
 
 ### IPO ###
 
+Physics
+
 Input  | Process | Output
-| :---: | :---:| :---:
-Physics  
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
+| :---: | :---:| :---: 
+Distance (m), Time (s) | speed = (distance/time) | Speed (m/s)
+Displacement (m), Time (s) | velocity = (displacement/time) | Velocity (m/s)
+Change in velocity (m/s), Time (s) | acceleration = (velocity/time) | Acceleration (m/s^2)
+Distance (m), Time (s) | kinetic energy = (1/2 * mass * velocity^2) | Kinetic Energy (J)
+Force (N), Distance (m) | work = (force * distance) | Work (Nm)
+Force (N), Area (m^2) | pressure = (force/area) | Pressure (Pa)
+Mass (kg), Area (m^2)  | force = (mass * area) | Force (N)
+Mass (kg), Velocity (m/s) | momentum = (mass * velocity) | Momentum (kgm/s)
+Work (Nm), Time (s) | power = (work/time) | Power (W)
+Current (A), Resistance (ohm) | voltage = (current * resistance) | Voltage (V)
+Voltage (V), Resistance (ohm) | current = (voltage / resistance) | Current (A)
+Voltage (V), Current (A) | resistance = (voltage / current) | Resistance (ohm)
+First charge (C), Second charge (C), Distance (m) | coulomb's law = (k * 1st charge * 2nd charge) / (d^2) | Force (N)
+Current (A), Number of electrons, Area (m^2), Charge (C) | velocity = (current / (n * area * charge) ) | Force (N)
+
 
 ![alt text](https://github.com/yawna000/plVioletProject/blob/main/IPO%20Chart.png)
