@@ -1,0 +1,17 @@
+Transcript Dec 4, 2020
+
+In today's Programming we continued on with working on the project
+and did a lot of progress, we decided to take away the gui and just
+import the formulas in with the main code. Today we added more of 
+the formulas for the AE Calculator and worked on the main python code
+as well as updating the github. 
+
+After the dismissal we still continued on with working on the formulas
+that is to be input, we each have split up the work for more ground to 
+cover and we also planned to have another meeting tomorrow to work on it
+again. THe only problems we have encountered was that Mr. Nepomuceno's 
+wifi was unresponsive at the start and Ms. Navajas' unstable connections 
+but other than that there was no other problems. For now we are done with 
+coding the formulas and so far have an input of 23 formulas, tomorrow to 
+be continued again. 
+
