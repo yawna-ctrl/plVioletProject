@@ -2,17 +2,13 @@
 
 AE Calculator (Almost Everything Calculator) 
 
-Calculator that includes common scientific/math formulas.
-A selection will appear to determine the formula to be used, then it will present the variables needed for the computation.
-Once the variables are presented a user input of the values are to be done then it will present the answer.
+A Calculator that includes common scientific/math formulas. A selection will appear to determine the formula to be used, then it will present the variables needed for the computation. Once the variables are presented, the user will input the values to be calculated then it will present the answer.
 
 Some formulas to be included are:
-temperature conversion,
-density,
-bmi calculator,
-molar mass of an element etc.
+Common Chemistry Formulas
+Common Physics Formulas
 
-Common Physics, Chemistry, Statistics, Calculus formulas are also to be included in the selection box.
+The goal of this project is to make solving these common formulas easier using a python program.
 
 Leader: John Dale Rick A. Nepomuceno
 
