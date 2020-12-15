@@ -16,6 +16,8 @@ Rapporteur: Jeriah Robert N. Galang
 
 Member: Allana A. Navajas
 
+![picture alt](https://github.com/yawna000/plVioletProject/blob/main/Poster_AECalculator.png)
+
 ## IPO ##
 
 Input  | Process | Output
@@ -51,4 +53,3 @@ Input  | Process | Output
 (2), (14), Current (A), Number of electrons, Area (m^2), Charge (C) | velocity = (current / (n * area * charge) ) | Force (N)
 (3) | "Thank you for using AECalculator" | Terminate Program
 
-![alt text](https://github.com/yawna000/plVioletProject/blob/main/IPO%20Chart.png)
