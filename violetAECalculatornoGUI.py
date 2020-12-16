@@ -26,7 +26,7 @@ def mainMenu():
                       '\n Please input 14 for Combined Gas Law (T1)'
                       '\n Please input 15 for Combined Gas Law (T2)'
                       )
-                y = int(input("\nWhich formula would you like to solve?: "))
+                y = int(input("\nWhich Chemistry formula would you like to solve?: "))
                 if y == 1:
                     print("Density is: ", float(CalculatorFormulas.density()))
                 elif y == 2:
@@ -75,7 +75,7 @@ def mainMenu():
                       '\n Please input 12 for Resistance'
                       '\n Please input 13 for Coulombs Law'
                       '\n Please input 14 for Drift Velocity')
-                y = int(input("\nWhich formula would you like to solve?: "))
+                y = int(input("\nWhich Physics formula would you like to solve?: "))
                 if y == 1:
                     print("Speed is: ", float(CalculatorFormulas.speed()))
                 elif y == 2:
@@ -116,3 +116,5 @@ def mainMenu():
         print("Enter a Value Except Zero")
         mainMenu()
 mainMenu()
+
+
