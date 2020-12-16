@@ -1,99 +1,99 @@
 #Physics Formulas
 def speed():
-    d = int(input('Distance (m): '))
-    t = int(input('Time (s): '))
+    d = int(input('Distance : '))
+    t = int(input('Time : '))
     s = float(d/t)
     limit_s = round(s, 2)
     return limit_s
 
 def velocity():
-    d = int(input('Displacement (m): '))
-    t = int(input('Time (s): '))
+    d = int(input('Displacement : '))
+    t = int(input('Time : '))
     v = float(d/t)
     limit_v = round(v, 2)
     return limit_v
 
 def acc():
-    v = int(input('Change in velocity (m/s): '))
-    t = int(input('Time (s): '))
+    v = int(input('Change in velocity : '))
+    t = int(input('Time : '))
     a = float(v/t)
     limit_a = round(a, 2)
     return limit_a
 
 def pressure():
-    f = int(input('Force (N): '))
-    a = int(input('Area (m**2): '))
+    f = int(input('Force : '))
+    a = int(input('Area : '))
     p = float(f/a)
     limit_p = round(p, 2)
     return limit_p
 
 def force():
-    m = int(input('Mass (kg): '))
-    a = int(input('Area (m**2): '))
+    m = int(input('Mass : '))
+    a = int(input('Area : '))
     f = float(m*a)
     limit_f = round(f, 2)
     return limit_f
 
 def momen():
-    m = int(input('Mass (kg): '))
-    v = int(input('Velocity (m/s): '))
+    m = int(input('Mass : '))
+    v = int(input('Velocity : '))
     mo = float(m*v)
     limit_mo = round(mo, 2)
     return limit_mo
 
 def power():
-    w = int(input('Work (Nm): '))
-    t = int(input('Time (s): '))
+    w = int(input('Work : '))
+    t = int(input('Time : '))
     p = float(w/t)
     limit_p = round(p, 2)
     return limit_p
 
 def volt():
-    i = int(input('Current (A): '))
-    r = int(input('Resistance (ohm): '))
+    i = int(input('Current : '))
+    r = int(input('Resistance : '))
     voltage = float(i*r)
     limit_voltage = round(voltage, 2)
     return limit_voltage
 
 def current():
-    v = int(input('Voltage (V): '))
-    r = int(input('Resistance (ohm): '))
+    v = int(input('Voltage : '))
+    r = int(input('Resistance : '))
     i = float(v/r)
     limit_i = round(i, 2)
     return limit_i
 
 def resistance():
-    v = int(input('Voltage (V): '))
-    i = int(input('Current (A): '))
+    v = int(input('Voltage : '))
+    i = int(input('Current : '))
     r = float(v/i)
     limit_r = round(r, 2)
     return limit_r
 
 def ke():
-    m = int(input('Mass (kg): '))
-    v = int(input('Time (s): '))
-    e = float(1/2 * m * v **2)
-    limit_ke = round(e, 2)
+    m = int(input('Mass : '))
+    v = int(input('Time : '))
+    ke = float(1/2 * m * v **2)
+    limit_ke = round(ke, 2)
     return limit_ke
 
 def work():
-    f = int(input('Force (N): '))
-    d = int(input('Distance (m): '))
+    f = int(input('Force : '))
+    d = int(input('Distance : '))
     w = float(f*d)
     limit_w = round(w, 2)
     return limit_w
 
 def coulombslaw():
     k = 9000000000
-    q1 = int(input('First charge (C): '))
-    q2 = int(input('Second charge (C): '))
-    d = int(input('Distance (m): '))
+    q1 = int(input('First charge : '))
+    q2 = int(input('Second charge : '))
+    d = int(input('Distance : '))
     f = float(k*q1*q2)/(d**2)
     limit_f = round(f, 2)
     return limit_f
 
 def driftv():
-    i = int(input('Current (A): '))
+    i = int(input('Current : '))
     n = int(input('Number of electrons: '))
     a = int(input('Area (m^2): '))
     q = int(input('Charge (C): '))
@@ -103,9 +103,9 @@ def driftv():
 
 #Chemistry Formulas
 def density():
-    m = int(input('Mass (kg): '))
-    v = int(input('Volume (m^3): '))
-    d = float(m/v)
+    m = int(input('Mass : '))
+    v = int(input('Volume : '))
+    d = float(m*v)
     limit_d = round(d, 2)
     return limit_d
 
@@ -136,7 +136,7 @@ def boyleP2():
 def boyleV2():
     p1 = int(input('P1: '))
     p2 = int(input('P2: '))
-    v1 = int(input('V2: '))
+    v1 = int(input('V1: '))
     v2 = (p2 * v1) / p1
     limit_v2 = round(v2, 2)
     return limit_v2
@@ -202,25 +202,25 @@ def combined_gas_lawT2():
     return limit_t2
 
 def fahrenheit_to_celsius():
-    fah = int(input('Fahrenheit (F): '))
+    fah = int(input('Fahrenheit : '))
     cel = (fah - 32) * 5/9
     limit_cel = round(cel, 2)
     return limit_cel
 
 def celsius_to_fahrenheit():
-    cel = int(input('Celsius (C): '))
+    cel = int(input('Celsius : '))
     fah = (cel * 9/5) + 32
     limit_fah = round(fah, 2)
     return limit_fah
 
 def celsius_to_kelvin():
-    cel = int(input('Celsius (C): '))
+    cel = int(input('Celsius : '))
     kel = cel + 273.15
     limit_kel = round(kel, 2)
     return limit_kel
 
 def kelvin_to_celsius():
-    kel = int(input('Kelvin (K): '))
+    kel = int(input('Kelvin : '))
     cel = kel - 273.15
     limit_cel = round(cel, 2)
     return limit_cel
