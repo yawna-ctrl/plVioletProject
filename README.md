@@ -1,6 +1,5 @@
-# plVioletProject
-
-AE Calculator (Almost Everything Calculator) 
+# plVioletProject #
+# AE Calculator (Almost Everything Calculator) #
 
 A Calculator that includes common scientific/math formulas. A selection will appear to determine the formula to be used, then it will present the variables needed for the computation. Once the variables are presented, the user will input the values to be calculated then it will present the answer.
 
@@ -16,11 +15,13 @@ Rapporteur: Jeriah Robert N. Galang
 
 Member: Allana A. Navajas
 
-:raising_hand: Click here for [Demonstration Video](https://youtu.be/ePceWaxhx9w "Demonstration") :point_left: via YouTube 
+ - - - -
+
+## :raising_hand: Click here for [Demonstration Video](https://youtu.be/ePceWaxhx9w "Demonstration") :point_left: via YouTube ##
 
 ![picture alt](https://github.com/yawna000/plVioletProject/blob/main/Poster_AECalculator.png)
 
-## IPO ##
+# IPO #
 
 Input  | Process | Output
 | :---: | :---:| :---: 
