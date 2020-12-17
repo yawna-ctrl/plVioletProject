@@ -16,6 +16,8 @@ Rapporteur: Jeriah Robert N. Galang
 
 Member: Allana A. Navajas
 
+:raising_hand: Click here for [Demonstration Video](https://youtu.be/ePceWaxhx9w "Demonstration") :point_left: via YouTube 
+
 ![picture alt](https://github.com/yawna000/plVioletProject/blob/main/Poster_AECalculator.png)
 
 ## IPO ##
