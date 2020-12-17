@@ -1,5 +1,7 @@
 # plVioletProject #
+ - - - -
 # AE Calculator (Almost Everything Calculator) #
+ - - - -
 
 A Calculator that includes common scientific/math formulas. A selection will appear to determine the formula to be used, then it will present the variables needed for the computation. Once the variables are presented, the user will input the values to be calculated then it will present the answer.
 
