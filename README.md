@@ -18,6 +18,7 @@ Member: Allana A. Navajas
  - - - -
 
 ## :raising_hand: Click here for [Demonstration Video](https://youtu.be/ePceWaxhx9w "Demonstration") :point_left: via YouTube ##
+## :open_book: Click here for [User Manual](https://github.com/yawna000/plVioletProject/blob/main/AE%20Calculator%20User%20Manual.pdf "User Manual") :point_left: ##
 
 ![picture alt](https://github.com/yawna000/plVioletProject/blob/main/Poster_AECalculator.png)
 
